@@ -1,0 +1,16 @@
+#main-navbar {
+  background-color: #f6ffbc;
+  font-weight: bold;
+}
+.card-title {
+  text-align: center;
+}
+.btn-primary {
+  background-color: #4b7bec;
+  border-color: #3867d6;
+}
+
+.btn-primary:hover {
+  background-color: #3867d6;
+  border-color: #4b7bec;
+}
